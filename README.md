@@ -109,15 +109,13 @@ dio.cookieJar=new PersistCookieJar(dir:"./cookies");
 Response<String>  response = await dio.get("https://www.baidu.com");
 ```
 
-More details about [dio](https://github.com/flutterchina/dio)  see : https://github.com/flutterchina/dio .
 
-## Copyright & License
 
-This open source project authorized by https://flutterchina.club , and the license is MIT.
+
 
 ## Features and bugs
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: https://github.com/flutterchina/cookie_jar
+[tracker]: https://github.com/cnflutters/cookie_jar
 
